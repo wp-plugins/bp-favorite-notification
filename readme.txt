@@ -8,13 +8,13 @@ Stable tag: 2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-BuddyPress Favourite Notification  adds a notification for buddypress activity.
+BuddyPress Favourite Notification  adds a notification for BuddyPress activity.
 
 == Description ==
-BuddyPress Favourite Notification  adds a notification for buddypress activity.
+BuddyPress Favourite Notification  adds a notification for BuddyPress activity.
 
 = How it works:- =
-It Shows live notifications of members on a BuddyPress based social network site. User will get notified after any buddypress activity by users.
+It Shows live notifications of members on a BuddyPress based social network site. User will get notified after any BuddyPress activity by users.
 
 
 
