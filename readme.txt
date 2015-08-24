@@ -26,6 +26,7 @@ This section describes how to install the plugin and get it working.
 3. Activate the plugin through the \'Plugins\' menu.
 4. Alternatively you can use WordPress Plugin installer from Dashboard->Plugins->Add New to add this plugin
 5. Enjoy
+If you need additional help you can contact us for [Custom Development](https://wbcomdesigns.com/hire-us/) .
 
 == Frequently Asked Questions ==
 = Does This plugin requires BuddyPress =
